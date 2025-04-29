@@ -1,7 +1,3 @@
-function sortProductsByPrice(products) {
-  // Your code here
-}
-
 // Test case
 const products = [
   { name: "Apple", price: 1.2 },
@@ -9,6 +5,13 @@ const products = [
   { name: "Cherry", price: 2.5 },
   { name: "Date", price: 1.5 },
 ];
+
+function sortProductsByPrice(products) {
+  
+}
+
+
+
 console.log(sortProductsByPrice(products));
 
 // Output: [
